@@ -6,7 +6,7 @@
 - [x] Callbacks
 - [x] Map
 - [x] Filter
-- [ ] Reduce
+- [x] Reduce
 - [ ] Promice
 - [ ] Async/Await
 - [ ] OO
