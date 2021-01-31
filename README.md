@@ -7,6 +7,6 @@
 - [x] Map
 - [x] Filter
 - [x] Reduce
-- [ ] Promice
+- [x] Promice
 - [ ] Async/Await
 - [ ] OO
