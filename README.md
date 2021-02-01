@@ -8,5 +8,5 @@
 - [x] Filter
 - [x] Reduce
 - [x] Promice
-- [ ] Async/Await
+- [x] Async/Await
 - [ ] OO
