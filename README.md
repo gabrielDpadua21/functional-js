@@ -9,4 +9,4 @@
 - [x] Reduce
 - [x] Promice
 - [x] Async/Await
-- [ ] OO
+- [x] OO
