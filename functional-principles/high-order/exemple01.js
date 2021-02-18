@@ -1,3 +1,4 @@
+// RECURSOS DA LINGUAGEM 
 // Funcoes que operam em outras funcoes
 // Tomando-as como argumentos ou retornando-as
 
