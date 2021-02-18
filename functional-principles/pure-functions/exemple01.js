@@ -1,5 +1,6 @@
 // Uma funcao pura e aquela em que o valor de retorno e determinado APENAS
 // pelos seus valores de entrada e nao deve causar efeitos colaterais observaveis
+// MAIOR FACILIDADE PARA TESTAR A APLICACAO
 
 const PI = 3.14159
 
