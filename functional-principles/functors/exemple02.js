@@ -10,7 +10,10 @@ function secType(value) {
             if(this.invalid()) {
                 return secType(null);
             }
-            return secType(fn(this.value))
+            return secType(fn(this.value));
+        },
+        flatMap(fn) {
+            this.map(fn).value;
         }
     }
 }
@@ -26,6 +29,12 @@ const result2 = secType('NEO')
                     .map(name => null)
                     //.map(name => name.split('').join(' '))
 
+const result3 = secType('TRINITY')
+                    .map(name => name.toLowerCase())
+                    .map(name => `Hello ${name}`)
+                    .flatMap(name => name.split('').join(' '))
+
 
 console.log(result1.value);
 console.log(result2.value);
+console.log(result3);
