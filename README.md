@@ -1,12 +1,23 @@
-# JAVASCRIPT Functional
+# JavaScript Funcional
 
-### Exemplos basicos de estudo de JavaScript Funcionales
+### Exemplos do curso JavaScript Funcional
 
-- [x] Conceitos
-- [x] Callbacks
-- [x] Map
-- [x] Filter
-- [x] Reduce
-- [x] Promice
-- [x] Async/Await
-- [x] OO
+---
+
+### Ministrado por Leonardo Leitão
+
+[cod3r](https://www.cod3r.com.br/)
+
+---
+
+### Técnologias utilizadas
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" style="zoom: 150%;" />
+
+---
+
+
+### License
+
+Copyright © 2021, [Gabriel D. Padua](https://github.com/gabrielDpadua21).
+Released under the [MIT license](LICENSE).
